@@ -1,5 +1,5 @@
-# Projeto api flask de teste
-Api rodando em Docker e em modo desenvolvimento para testes.
+# Projeto api flask para teste
+Api rodando em Docker e em modo desenvolvimento com sqlite para testes.
 
 
 ## Como executar o projeto
